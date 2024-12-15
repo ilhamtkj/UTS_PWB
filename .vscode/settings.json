@@ -1,0 +1,3 @@
+{
+  "css.styleSheets": ["bootstrap/css/*.css", "custom.css"]
+}
